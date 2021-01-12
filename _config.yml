@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "불꽃남자"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "풀스택 머신러닝 개발을 위해...\n 파이썬 라이브러리를 활용한 머신러닝 교재를 참고하여 스터디하는 블로그입니다."
+  bio              : "풀스택 머신러닝 개발을 위해..."
   location         : "대한민국 서울"
   email            :
   links:
